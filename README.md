@@ -1,5 +1,10 @@
 # Portfolio Analytics Dashboard
 
+<img width="1898" height="950" alt="image" src="https://github.com/user-attachments/assets/124a3809-cccd-47e1-b005-a6303fd94f88" />
+<img width="1901" height="949" alt="image" src="https://github.com/user-attachments/assets/195b60db-3df2-44a2-b6e2-f9763724b58b" />
+
+
+
 A full-stack portfolio analytics application with a **React TypeScript frontend** and **Python FastAPI backend**.
 
 ## 🚀 Features
