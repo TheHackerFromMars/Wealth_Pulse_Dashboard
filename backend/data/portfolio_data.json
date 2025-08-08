@@ -1,0 +1,414 @@
+{
+  "metadata": {
+    "imported_at": "2025-08-08T15:18:51.656122",
+    "source_file": "Sample Portfolio Dataset for Assignment.xlsx",
+    "version": "1.0"
+  },
+  "holdings": [
+    {
+      "symbol": "RELIANCE",
+      "name": "Reliance Industries Limited",
+      "quantity": 50,
+      "avgPrice": 2450.0,
+      "currentPrice": 2680.5,
+      "sector": "Energy",
+      "marketCap": "Large",
+      "exchange": "NSE",
+      "value": 134025.0,
+      "invested": 122500.0,
+      "gainLoss": 11525.0,
+      "gainLossPercent": 9.41
+    },
+    {
+      "symbol": "INFY",
+      "name": "Infosys Limited",
+      "quantity": 100,
+      "avgPrice": 1800.0,
+      "currentPrice": 2010.75,
+      "sector": "Technology",
+      "marketCap": "Large",
+      "exchange": "NSE",
+      "value": 201075.0,
+      "invested": 180000.0,
+      "gainLoss": 21075.0,
+      "gainLossPercent": 11.71
+    },
+    {
+      "symbol": "TCS",
+      "name": "Tata Consultancy Services",
+      "quantity": 75,
+      "avgPrice": 3200.0,
+      "currentPrice": 3450.25,
+      "sector": "Technology",
+      "marketCap": "Large",
+      "exchange": "NSE",
+      "value": 258768.75,
+      "invested": 240000.0,
+      "gainLoss": 18768.75,
+      "gainLossPercent": 7.82
+    },
+    {
+      "symbol": "HDFCBANK",
+      "name": "HDFC Bank Limited",
+      "quantity": 80,
+      "avgPrice": 1650.0,
+      "currentPrice": 1580.3,
+      "sector": "Banking",
+      "marketCap": "Large",
+      "exchange": "NSE",
+      "value": 126424.0,
+      "invested": 132000.0,
+      "gainLoss": -5576.0,
+      "gainLossPercent": -4.22
+    },
+    {
+      "symbol": "ICICIBANK",
+      "name": "ICICI Bank Limited",
+      "quantity": 60,
+      "avgPrice": 1100.0,
+      "currentPrice": 1235.8,
+      "sector": "Banking",
+      "marketCap": "Large",
+      "exchange": "NSE",
+      "value": 74148.0,
+      "invested": 66000.0,
+      "gainLoss": 8148.0,
+      "gainLossPercent": 12.35
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "name": "Bharti Airtel Limited",
+      "quantity": 120,
+      "avgPrice": 850.0,
+      "currentPrice": 920.45,
+      "sector": "Telecommunications",
+      "marketCap": "Large",
+      "exchange": "NSE",
+      "value": 110454.0,
+      "invested": 102000.0,
+      "gainLoss": 8454.0,
+      "gainLossPercent": 8.29
+    },
+    {
+      "symbol": "ITC",
+      "name": "ITC Limited",
+      "quantity": 200,
+      "avgPrice": 420.0,
+      "currentPrice": 465.2,
+      "sector": "Consumer Goods",
+      "marketCap": "Large",
+      "exchange": "NSE",
+      "value": 93040.0,
+      "invested": 84000.0,
+      "gainLoss": 9040.0,
+      "gainLossPercent": 10.76
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "name": "Bajaj Finance Limited",
+      "quantity": 25,
+      "avgPrice": 6800.0,
+      "currentPrice": 7150.6,
+      "sector": "Financial Services",
+      "marketCap": "Large",
+      "exchange": "NSE",
+      "value": 178765.0,
+      "invested": 170000.0,
+      "gainLoss": 8765.0,
+      "gainLossPercent": 5.16
+    },
+    {
+      "symbol": "ASIANPAINT",
+      "name": "Asian Paints Limited",
+      "quantity": 40,
+      "avgPrice": 3100.0,
+      "currentPrice": 2890.75,
+      "sector": "Consumer Discretionary",
+      "marketCap": "Large",
+      "exchange": "NSE",
+      "value": 115630.0,
+      "invested": 124000.0,
+      "gainLoss": -8370.0,
+      "gainLossPercent": -6.75
+    },
+    {
+      "symbol": "MARUTI",
+      "name": "Maruti Suzuki India Limited",
+      "quantity": 30,
+      "avgPrice": 9500.0,
+      "currentPrice": 10250.3,
+      "sector": "Automotive",
+      "marketCap": "Large",
+      "exchange": "NSE",
+      "value": 307509.0,
+      "invested": 285000.0,
+      "gainLoss": 22509.0,
+      "gainLossPercent": 7.9
+    },
+    {
+      "symbol": "WIPRO",
+      "name": "Wipro Limited",
+      "quantity": 150,
+      "avgPrice": 450.0,
+      "currentPrice": 485.6,
+      "sector": "Technology",
+      "marketCap": "Large",
+      "exchange": "NSE",
+      "value": 72840.0,
+      "invested": 67500.0,
+      "gainLoss": 5340.0,
+      "gainLossPercent": 7.91
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "name": "Tata Motors Limited",
+      "quantity": 100,
+      "avgPrice": 650.0,
+      "currentPrice": 720.85,
+      "sector": "Automotive",
+      "marketCap": "Large",
+      "exchange": "NSE",
+      "value": 72085.0,
+      "invested": 65000.0,
+      "gainLoss": 7085.0,
+      "gainLossPercent": 10.9
+    },
+    {
+      "symbol": "TECHM",
+      "name": "Tech Mahindra Limited",
+      "quantity": 80,
+      "avgPrice": 1200.0,
+      "currentPrice": 1145.25,
+      "sector": "Technology",
+      "marketCap": "Large",
+      "exchange": "NSE",
+      "value": 91620.0,
+      "invested": 96000.0,
+      "gainLoss": -4380.0,
+      "gainLossPercent": -4.56
+    },
+    {
+      "symbol": "AXISBANK",
+      "name": "Axis Bank Limited",
+      "quantity": 90,
+      "avgPrice": 980.0,
+      "currentPrice": 1055.4,
+      "sector": "Banking",
+      "marketCap": "Large",
+      "exchange": "NSE",
+      "value": 94986.0,
+      "invested": 88200.0,
+      "gainLoss": 6786.0,
+      "gainLossPercent": 7.69
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "name": "Sun Pharmaceutical Industries",
+      "quantity": 60,
+      "avgPrice": 1150.0,
+      "currentPrice": 1245.3,
+      "sector": "Healthcare",
+      "marketCap": "Large",
+      "exchange": "NSE",
+      "value": 74718.0,
+      "invested": 69000.0,
+      "gainLoss": 5718.0,
+      "gainLossPercent": 8.29
+    }
+  ],
+  "historical_performance": [
+    {
+      "date": "2024-01-01",
+      "portfolio": 1500000.0,
+      "nifty50": 21000.0,
+      "gold": 62000.0,
+      "portfolioReturn": 0.0,
+      "niftyReturn": 0.0,
+      "goldReturn": 0.0
+    },
+    {
+      "date": "2024-02-01",
+      "portfolio": 1520000.0,
+      "nifty50": 21300.0,
+      "gold": 61800.0,
+      "portfolioReturn": 0.0133,
+      "niftyReturn": 0.0143,
+      "goldReturn": -0.0032
+    },
+    {
+      "date": "2024-03-01",
+      "portfolio": 1540000.0,
+      "nifty50": 22100.0,
+      "gold": 64500.0,
+      "portfolioReturn": 0.0267,
+      "niftyReturn": 0.0524,
+      "goldReturn": 0.0403
+    },
+    {
+      "date": "2024-04-01",
+      "portfolio": 1580000.0,
+      "nifty50": 22800.0,
+      "gold": 66200.0,
+      "portfolioReturn": 0.0533,
+      "niftyReturn": 0.0857,
+      "goldReturn": 0.0677
+    },
+    {
+      "date": "2024-05-01",
+      "portfolio": 1620000.0,
+      "nifty50": 23200.0,
+      "gold": 68000.0,
+      "portfolioReturn": 0.08,
+      "niftyReturn": 0.1048,
+      "goldReturn": 0.0968
+    },
+    {
+      "date": "2024-06-01",
+      "portfolio": 1650000.0,
+      "nifty50": 23500.0,
+      "gold": 68500.0,
+      "portfolioReturn": 0.1,
+      "niftyReturn": 0.119,
+      "goldReturn": 0.1048
+    },
+    {
+      "date": "2024-07-01",
+      "portfolio": 1680000.0,
+      "nifty50": 24100.0,
+      "gold": 69800.0,
+      "portfolioReturn": 0.12,
+      "niftyReturn": 0.1476,
+      "goldReturn": 0.1258
+    },
+    {
+      "date": "2024-08-01",
+      "portfolio": 1720000.0,
+      "nifty50": 24800.0,
+      "gold": 70200.0,
+      "portfolioReturn": 0.1467,
+      "niftyReturn": 0.181,
+      "goldReturn": 0.1323
+    },
+    {
+      "date": "2024-09-01",
+      "portfolio": 1750000.0,
+      "nifty50": 25200.0,
+      "gold": 71500.0,
+      "portfolioReturn": 0.1667,
+      "niftyReturn": 0.2,
+      "goldReturn": 0.1532
+    },
+    {
+      "date": "2024-10-01",
+      "portfolio": 1780000.0,
+      "nifty50": 25600.0,
+      "gold": 72800.0,
+      "portfolioReturn": 0.1867,
+      "niftyReturn": 0.219,
+      "goldReturn": 0.1742
+    },
+    {
+      "date": "2024-11-01",
+      "portfolio": 1820000.0,
+      "nifty50": 26100.0,
+      "gold": 74000.0,
+      "portfolioReturn": 0.2133,
+      "niftyReturn": 0.2429,
+      "goldReturn": 0.1935
+    },
+    {
+      "date": "2024-12-01",
+      "portfolio": 1850000.0,
+      "nifty50": 26500.0,
+      "gold": 75200.0,
+      "portfolioReturn": 0.2333,
+      "niftyReturn": 0.2619,
+      "goldReturn": 0.2129
+    }
+  ],
+  "sector_allocation": [
+    {
+      "sector": "Technology",
+      "value": 624303.75,
+      "percentage": 32.25,
+      "holdingsCount": 4
+    },
+    {
+      "sector": "Automotive",
+      "value": 379594.0,
+      "percentage": 19.61,
+      "holdingsCount": 2
+    },
+    {
+      "sector": "Banking",
+      "value": 295558.0,
+      "percentage": 15.27,
+      "holdingsCount": 3
+    },
+    {
+      "sector": "Financial Services",
+      "value": 178765.0,
+      "percentage": 9.24,
+      "holdingsCount": 1
+    },
+    {
+      "sector": "Energy",
+      "value": 134025.0,
+      "percentage": 6.92,
+      "holdingsCount": 1
+    },
+    {
+      "sector": "Consumer Discretionary",
+      "value": 115630.0,
+      "percentage": 5.970000000000001,
+      "holdingsCount": 1
+    },
+    {
+      "sector": "Telecommunications",
+      "value": 110454.0,
+      "percentage": 5.71,
+      "holdingsCount": 1
+    },
+    {
+      "sector": "Consumer Goods",
+      "value": 93040.0,
+      "percentage": 4.81,
+      "holdingsCount": 1
+    },
+    {
+      "sector": "Healthcare",
+      "value": 74718.0,
+      "percentage": 3.8600000000000003,
+      "holdingsCount": 1
+    }
+  ],
+  "market_cap_allocation": [
+    {
+      "marketCap": "Large",
+      "value": 1935097.75,
+      "percentage": 100.0,
+      "holdingsCount": 15
+    },
+    {
+      "marketCap": "Mid",
+      "value": 0.0,
+      "percentage": 0.0,
+      "holdingsCount": 0
+    },
+    {
+      "marketCap": "Small",
+      "value": 0.0,
+      "percentage": 0.0,
+      "holdingsCount": 0
+    }
+  ],
+  "summary_metrics": {
+    "Total Portfolio Value": 1935097.75,
+    "Total Invested Amount": 1740000.0,
+    "Total Gain/Loss": 195097.75,
+    "Total Gain/Loss %": 0.1121,
+    "Number of Holdings": 15.0,
+    "Diversification Score": "8.2/10",
+    "Risk Level": "Moderate"
+  }
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="16" fill="#1a365d"/>
+  
+  <!-- Portfolio/Chart icon -->
+  <g stroke="#ffffff" stroke-width="1.5" fill="none">
+    <!-- Chart bars -->
+    <rect x="8" y="18" width="2" height="6" fill="#ffffff"/>
+    <rect x="11" y="14" width="2" height="10" fill="#ffffff"/>
+    <rect x="14" y="16" width="2" height="8" fill="#ffffff"/>
+    <rect x="17" y="12" width="2" height="12" fill="#ffffff"/>
+    <rect x="20" y="15" width="2" height="9" fill="#ffffff"/>
+    
+    <!-- Trend line -->
+    <path d="M7 20L11 16L15 18L19 13L25 15" stroke="#4ade80" stroke-width="2"/>
+    
+    <!-- Dollar sign -->
+    <circle cx="23" cy="10" r="3" fill="#4ade80"/>
+    <path d="M22 8V12M24 8V12M22.5 9H23.5M22.5 11H23.5" stroke="#ffffff" stroke-width="0.8"/>
+  </g>
+</svg>

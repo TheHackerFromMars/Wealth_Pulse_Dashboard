@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="chartGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#34d399;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGradient)"/>
+  
+  <!-- Grid pattern -->
+  <defs>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  
+  <!-- Main content area -->
+  <rect x="100" y="100" width="1000" height="430" rx="20" fill="#ffffff" opacity="0.95"/>
+  
+  <!-- Title -->
+  <text x="600" y="180" text-anchor="middle" font-family="system-ui, sans-serif" font-size="48" font-weight="bold" fill="#1e3a8a">
+    WealthManager.online
+  </text>
+  <text x="600" y="220" text-anchor="middle" font-family="system-ui, sans-serif" font-size="24" fill="#64748b">
+    Portfolio Analytics Dashboard
+  </text>
+  
+  <!-- Chart visualization -->
+  <g transform="translate(200, 280)">
+    <!-- Chart bars -->
+    <rect x="0" y="100" width="50" height="80" fill="url(#chartGradient)" rx="4"/>
+    <rect x="70" y="60" width="50" height="120" fill="url(#chartGradient)" rx="4"/>
+    <rect x="140" y="80" width="50" height="100" fill="url(#chartGradient)" rx="4"/>
+    <rect x="210" y="40" width="50" height="140" fill="url(#chartGradient)" rx="4"/>
+    <rect x="280" y="70" width="50" height="110" fill="url(#chartGradient)" rx="4"/>
+    <rect x="350" y="30" width="50" height="150" fill="url(#chartGradient)" rx="4"/>
+    
+    <!-- Trend line -->
+    <path d="M25 140 L95 100 L165 120 L235 80 L305 110 L375 70" 
+          stroke="#ef4444" stroke-width="4" fill="none" stroke-linecap="round"/>
+    
+    <!-- Data points -->
+    <circle cx="25" cy="140" r="6" fill="#ef4444"/>
+    <circle cx="95" cy="100" r="6" fill="#ef4444"/>
+    <circle cx="165" cy="120" r="6" fill="#ef4444"/>
+    <circle cx="235" cy="80" r="6" fill="#ef4444"/>
+    <circle cx="305" cy="110" r="6" fill="#ef4444"/>
+    <circle cx="375" cy="70" r="6" fill="#ef4444"/>
+  </g>
+  
+  <!-- Features -->
+  <g transform="translate(650, 300)">
+    <text x="0" y="0" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#1e3a8a">
+      ✓ Real-time Portfolio Tracking
+    </text>
+    <text x="0" y="35" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#1e3a8a">
+      ✓ Sector Allocation Analysis
+    </text>
+    <text x="0" y="70" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#1e3a8a">
+      ✓ Performance vs Benchmarks
+    </text>
+    <text x="0" y="105" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#1e3a8a">
+      ✓ Risk Assessment Tools
+    </text>
+  </g>
+  
+  <!-- Bottom accent -->
+  <rect x="0" y="570" width="1200" height="60" fill="#1e3a8a" opacity="0.8"/>
+  <text x="600" y="600" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#ffffff">
+    Professional Portfolio Analytics • Data-Driven Investment Insights
+  </text>
+</svg>
